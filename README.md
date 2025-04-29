@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Maria Eduarda Nascimento (Duda) 👋
+#  Maria Eduarda Nascimento (Duda) 👋
 
 *Desenvolvedora Back-end*
 ## Sobre Mim
@@ -10,7 +10,7 @@ Atualmente, curso Ciências da Computação na FURB e estou no 5º semestre.
 ## Experiência Profissional
 
 - **Desenvolvedora Backend **  
-  _[Data de início] – Presente_  
+  Maio de 2023 – Presente_  
   **Principais atividades:**
   - Desenvolvimento de soluções na área de controladoria (contábil e fiscal)
   - Automação de testes para garantir a qualidade dos sistemas
@@ -19,7 +19,7 @@ Atualmente, curso Ciências da Computação na FURB e estou no 5º semestre.
 ## Educação
 
 - **Bacharelado em Ciências da Computação — FURB**  
-  _[Data de início] – Presente_  
+  2023 – Presente_  
   - Semestre atual: 5º
 
 ## Contato
